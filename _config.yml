@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Personal Blog                          # the main title
+title: The Fool         # the main title
 
 tagline: 或许是不知梦的缘故 流离之人追逐幻影  # it will display as the sub-title
 
@@ -25,7 +25,7 @@ author: gtx                  # change to your full name
 avatar: /assets/img/sample/profile_photo.png   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: gutianxing             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
