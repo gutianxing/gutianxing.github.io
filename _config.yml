@@ -20,9 +20,9 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
 
-author: your_full_name                  # change to your full name
+author: gtx                  # change to your full name
 
-avatar: /assets/img/sample/profile_photo.jpg   # support internet resources
+avatar: /assets/img/sample/profile_photo.png   # support internet resources
 
 github:
   username: github_username             # change to your github username
